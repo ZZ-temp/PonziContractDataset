@@ -1,5 +1,5 @@
 # PonziContractDataset
-The 6,452 labeled smart contracts on Ethereum.
+The 6,452 labeled smart contracts on Ethereum. 
 
 blockheight from 0 to 5,000,000
 
